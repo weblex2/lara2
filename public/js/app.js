@@ -23438,7 +23438,7 @@ var _hoisted_11 = {
   "class": "hidden space-x-8 sm:-my-px sm:ml-10 sm:flex"
 };
 
-var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Link3 ");
+var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Link3 B2 ");
 
 var _hoisted_13 = {
   "class": "hidden sm:flex sm:items-center sm:ml-6"
